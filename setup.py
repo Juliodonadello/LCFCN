@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='lcfcn',
       version='0.6.0',
       description='LCFCN',
-      url='git@github.com:ElementAI/LCFCN.git',
+      url='https://github.com/ElementAI/LCFCN.git',  # Fixed the URL to use HTTPS instead of SSH
       maintainer='Issam Laradji',
       maintainer_email='issam.laradji@gmail.com',
       license='Apache 2.0',
